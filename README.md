@@ -1,10 +1,10 @@
 # AndroidExample
 
-✏직접 공부하며 작성한 Android Example 모음입니다.
+✏직접 공부하며 작성한 Android Example 모음입니다✏
 
 자세한 설명은 [코드랜드](https://coderand.tistory.com/)를 참고해주세요
 
-Error나 Issue는 블로그 해당 글에 댓글 남겨주세요👌
+Error나 Issue는 블로그 해당 글에 댓글 남겨주세요✔
 
 ### 개발환경
 
