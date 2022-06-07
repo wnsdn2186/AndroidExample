@@ -15,11 +15,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.btnFragmentA.setOnClickListener {
-            supportFragmentManager.beginTransaction().add(R.id.container_fragment, AFragment()).commit()
+            supportFragmentManager.beginTransaction().replace(R.id.container_fragment, AFragment()).commit()
         }
 
         binding.btnFragmentB.setOnClickListener {
-            supportFragmentManager.beginTransaction().add(R.id.container_fragment, BFragment()).commit()
+            supportFragmentManager.beginTransaction().replace(R.id.container_fragment, BFragment()).commit()
         }
     }
 }
